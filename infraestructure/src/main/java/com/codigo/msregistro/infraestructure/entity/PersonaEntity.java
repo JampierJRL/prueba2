@@ -17,7 +17,7 @@ public class PersonaEntity {
     private Long idPersona;
 
     @Column(name = "num_docu", nullable = false, length = 15)
-    private String numDocu;
+    private String numDocumento;
 
     @Column(name = "nombres", nullable = false, length = 150)
     private String nombres;

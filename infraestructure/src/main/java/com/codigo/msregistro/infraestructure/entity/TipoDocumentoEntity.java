@@ -23,7 +23,7 @@ public class TipoDocumentoEntity {
     @Column(name = "estado", nullable = false)
     private Integer estado;
     @Column(name = "usua_crea", length = 45)
-    private String usuaCrea;
+    private String usuaCreaasdasdas;
     @Column(name = "date_create")
     private Timestamp dateCreate;
     @Column(name = "usua_modif", length = 45)
